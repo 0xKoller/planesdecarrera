@@ -3,6 +3,7 @@ html {
   }
   body {
     background: #f6f9fc;
+    background-image:url(../images/1000_F_182888791_dZlETjTAPJK35fvS84liVX6SDYjNlEyF.jpg);
     font-family: "Open Sans", sans-serif;
     color: #525f7f;
   }
@@ -62,7 +63,7 @@ html {
     content: "";
     width: 2px;
     height: 100%;
-    background: red;
+    background: blue;
     position: absolute;
     top: 52%;
     left: -3.5rem;
@@ -73,11 +74,22 @@ html {
     width: 5rem;
     height: 5rem;
     position: absolute;
-    background: red;
+    background: blue;
     border-radius: 100%;
     left: -6rem;
     top: 50%;
     transform: translateY(-50%);
     border: 2px solid #9251ac;
   }
-  
+  .road{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    width: 50vw;
+    margin: 5% auto;
+    border: 1px solid blue;
+    padding: 20px;
+    text-align: center;
+
+
+  }
