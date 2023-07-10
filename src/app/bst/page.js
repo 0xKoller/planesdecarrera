@@ -1,5 +1,7 @@
 "use client";
-import { Button, Space } from "antd";
+
+import Button from "antd/es/button";
+import Space from "antd/es/space";
 
 export default function FirstPost() {
   return (
