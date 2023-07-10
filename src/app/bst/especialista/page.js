@@ -1,7 +1,10 @@
 "use client";
 import React from "react";
-import { Timeline, Card, Descriptions, Collapse } from "antd";
 import Table from "antd/es/table";
+import Timeline from "antd/es/timeline";
+import Card from "antd/es/card";
+import Descriptions from "antd/es/descriptions";
+import Collapse from "antd/es/collapse";
 import desc from "./desc.json";
 import matrix from "./matrix.json";
 import capa from "./capacities.json";
