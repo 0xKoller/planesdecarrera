@@ -1,42 +1,57 @@
 [
   {
     "key": "1",
-    "name": "Gestión de Contenedores",
+    "name": "Participa en la estimación de esfuerzos",
     "capacidad": "Autonomo"
   },
   {
     "key": "2",
-    "name": "Implementación de arquitecturas en nubes",
+    "name": "Modeliza y refina especificaciones a fin de determinar un diseño detallado para implantar la funcionalidad requerida",
     "capacidad": "Autonomo"
   },
   {
     "key": "3",
-    "name": "Brindar apoyo en el diseño, desarrollo y documentación de soluciones TI Cloud",
+    "name": "Construye un producto de baja o media complejidad",
     "capacidad": "Autonomo"
   },
   {
     "key": "4",
-    "name": "Actualizar y dar mantenimiento a los sistemas informáticos Cloud",
+    "name": "Reutiliza componentes existentes integrándolos con código propio",
     "capacidad": "Autonomo"
   },
   {
     "key": "5",
-    "name": "Monitoreo de servicios, aplicaciones y bases de datos en entornos cloud ",
+    "name": "Diseña y ejecuta pruebas unitarias",
     "capacidad": "Autonomo"
   },
   {
     "key": "6",
-    "name": "Elaborar indicadores, reportes, y presentaciones del área ",
+    "name": "Revisa el código para resolver defectos y mejorarlos",
     "capacidad": "Autonomo"
   },
   {
     "key": "7",
-    "name": "Infraestructura como código",
+    "name": "Aprendizaje continuo",
     "capacidad": "Autonomo"
   },
   {
     "key": "8",
-    "name": "Capacidades de monitorear los entornos",
+    "name": "Que construya Productos diseñados con cero defectos detectados",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "9",
+    "name": "Hacer que las cosas sucedan",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "10",
+    "name": "Trabajo en equipo",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "11",
+    "name": "Cultura de Servicio",
     "capacidad": "Lo pone en practica"
   }
 ]

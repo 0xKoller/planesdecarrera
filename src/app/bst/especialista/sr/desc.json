@@ -1,42 +1,67 @@
 [
   {
     "key": "1",
-    "name": "Gestión de Contenedores",
+    "name": "Comprender los requerimientos del software",
     "capacidad": "Autonomo"
   },
   {
     "key": "2",
-    "name": "Implementación de arquitecturas en nubes",
+    "name": "Lidera la estimación del esfuerzo",
     "capacidad": "Autonomo"
   },
   {
     "key": "3",
-    "name": "Brindar apoyo en el diseño, desarrollo y documentación de soluciones TI Cloud",
+    "name": "Modeliza y refina especificaciones a fin de determinar un diseño detallado para implantar la funcionalidad requerida",
     "capacidad": "Autonomo"
   },
   {
     "key": "4",
-    "name": "Actualizar y dar mantenimiento a los sistemas informáticos Cloud",
+    "name": "Construye un producto de media a alta complejidad",
     "capacidad": "Autonomo"
   },
   {
     "key": "5",
-    "name": "Monitoreo de servicios, aplicaciones y bases de datos en entornos cloud ",
+    "name": "Reutiliza componentes existentes integrándolos con código propio",
     "capacidad": "Autonomo"
   },
   {
     "key": "6",
-    "name": "Elaborar indicadores, reportes, y presentaciones del área ",
+    "name": "Diseña y ejecuta pruebas de integración ",
     "capacidad": "Autonomo"
   },
   {
     "key": "7",
-    "name": "Infraestructura como código",
+    "name": "Revisa el código para proponer mejoras ",
     "capacidad": "Autonomo"
   },
   {
     "key": "8",
-    "name": "Capacidades de monitorear los entornos",
+    "name": "Aprendizaje continuo",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "9",
+    "name": "Creación de  software diseñados con cero defectos detectados",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "10",
+    "name": "Innovación",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "11",
+    "name": "Hacer que las cosas sucedan",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "12",
+    "name": "Trabajo en equipo",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "13",
+    "name": "Cultura de Servicio",
     "capacidad": "Lo pone en practica"
   }
 ]

@@ -9,9 +9,21 @@ import Descriptions from "antd/es/descriptions";
 import Collapse from "antd/es/collapse";
 
 // DATA
-import desc from "./trainee/desc.json";
-import matrix from "./trainee/matrix.json";
-import capa from "./trainee/capacities.json";
+import descTrainee from "./trainee/desc.json";
+import matrixTrainee from "./trainee/matrix.json";
+import capaTrainee from "./trainee/capacities.json";
+import descJr from "./jr/desc.json";
+import matrixJr from "./jr/matrix.json";
+import capaJr from "./jr/capacities.json";
+import descSsr from "./ssr/desc.json";
+import matrixSsr from "./ssr/matrix.json";
+import capaSsr from "./ssr/capacities.json";
+import descSr from "./sr/desc.json";
+import matrixSr from "./sr/matrix.json";
+import capaSr from "./sr/capacities.json";
+import descLeader from "./leader/desc.json";
+import matrixLeader from "./leader/matrix.json";
+import capaLeader from "./leader/capacities.json";
 
 const columns_desc = [
   {
@@ -115,7 +127,7 @@ const itemsTrainee = [
       <>
         <Table
           pagination={false}
-          dataSource={desc}
+          dataSource={descTrainee}
           columns={columns_desc}
           size="small"
         />
@@ -128,7 +140,7 @@ const itemsTrainee = [
     children: (
       <>
         <Table
-          dataSource={matrix}
+          dataSource={matrixTrainee}
           columns={columns_matrix}
           pagination={false}
           size="small"
@@ -143,8 +155,188 @@ const itemsTrainee = [
       <>
         <Table
           pagination={false}
-          dataSource={capa}
+          dataSource={capaTrainee}
           columns={columns_capa}
+          size="small"
+        />
+      </>
+    ),
+  },
+];
+
+const itemsJr = [
+  {
+    key: "1",
+    label: "Que hace?",
+    children: (
+      <>
+        <Table
+          pagination={false}
+          dataSource={descJr}
+          columns={columns_desc}
+          size="small"
+        />
+      </>
+    ),
+  },
+  {
+    key: "2",
+    label: "Matriz de conocimientos",
+    children: (
+      <>
+        <Table
+          pagination={false}
+          dataSource={matrixJr}
+          columns={columns_desc}
+          size="small"
+        />
+      </>
+    ),
+  },
+  {
+    key: "3",
+    label: "Capacidades a incorporar",
+    children: (
+      <>
+        <Table
+          pagination={false}
+          dataSource={capaJr}
+          columns={columns_desc}
+          size="small"
+        />
+      </>
+    ),
+  },
+];
+
+const itemsSsr = [
+  {
+    key: "1",
+    label: "Que hace?",
+    children: (
+      <>
+        <Table
+          pagination={false}
+          dataSource={descSsr}
+          columns={columns_desc}
+          size="small"
+        />
+      </>
+    ),
+  },
+  {
+    key: "2",
+    label: "Matriz de conocimientos",
+    children: (
+      <>
+        <Table
+          pagination={false}
+          dataSource={matrixSsr}
+          columns={columns_desc}
+          size="small"
+        />
+      </>
+    ),
+  },
+  {
+    key: "3",
+    label: "Capacidades a incorporar",
+    children: (
+      <>
+        <Table
+          pagination={false}
+          dataSource={capaSsr}
+          columns={columns_desc}
+          size="small"
+        />
+      </>
+    ),
+  },
+];
+
+const itemsSr = [
+  {
+    key: "1",
+    label: "Que hace?",
+    children: (
+      <>
+        <Table
+          pagination={false}
+          dataSource={descSr}
+          columns={columns_desc}
+          size="small"
+        />
+      </>
+    ),
+  },
+  {
+    key: "2",
+    label: "Matriz de conocimientos",
+    children: (
+      <>
+        <Table
+          pagination={false}
+          dataSource={matrixSr}
+          columns={columns_desc}
+          size="small"
+        />
+      </>
+    ),
+  },
+  {
+    key: "3",
+    label: "Capacidades a incorporar",
+    children: (
+      <>
+        <Table
+          pagination={false}
+          dataSource={capaSr}
+          columns={columns_desc}
+          size="small"
+        />
+      </>
+    ),
+  },
+];
+
+const itemsLeader = [
+  {
+    key: "1",
+    label: "Que hace?",
+    children: (
+      <>
+        <Table
+          pagination={false}
+          dataSource={descLeader}
+          columns={columns_desc}
+          size="small"
+        />
+      </>
+    ),
+  },
+  {
+    key: "2",
+    label: "Matriz de conocimientos",
+    children: (
+      <>
+        <Table
+          pagination={false}
+          dataSource={matrixLeader}
+          columns={columns_desc}
+          size="small"
+        />
+      </>
+    ),
+  },
+  {
+    key: "3",
+    label: "Capacidades a incorporar",
+    children: (
+      <>
+        <Table
+          pagination={false}
+          dataSource={capaLeader}
+          columns={columns_desc}
           size="small"
         />
       </>
@@ -176,7 +368,7 @@ export default function Especialista() {
               children: (
                 <Card title="Dev Jr">
                   <Descriptions title="Descripcion" />
-                  <Collapse items={items} />
+                  <Collapse items={itemsJr} />
                 </Card>
               ),
             },
@@ -184,7 +376,7 @@ export default function Especialista() {
               children: (
                 <Card title="Dev SSR">
                   <Descriptions title="Descripcion" />
-                  <Collapse items={items} />
+                  <Collapse items={itemsSsr} />
                 </Card>
               ),
             },
@@ -192,7 +384,7 @@ export default function Especialista() {
               children: (
                 <Card title="Dev SR">
                   <Descriptions title="Descripcion" />
-                  <Collapse items={items} />
+                  <Collapse items={itemsSr} />
                 </Card>
               ),
             },
@@ -200,7 +392,7 @@ export default function Especialista() {
               children: (
                 <Card title="Dev Lider">
                   <Descriptions title="Descripcion" />
-                  <Collapse items={items} />
+                  <Collapse items={itemsLeader} />
                 </Card>
               ),
             },

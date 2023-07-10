@@ -8,7 +8,7 @@ export const Footer = () => {
         className="hover:text-red-600 transition ease-in-out delay-150"
         href="https://www.linkedin.com/company/tsoft/"
       >
-        Linkedin
+        LinkedIn
       </Link>
 
       <Link

@@ -1,13 +1,12 @@
 "use client";
 
-import { Navbar } from "@/components/navbar/Navbar";
 import Button from "antd/es/button";
 import Space from "antd/es/space";
 
 export default function FirstPost() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24">
-      <h1>Business System Teams</h1>
+      <h1 className="text-xl text-red-600">Business System Teams</h1>
       <div className="container">
         <Space direction="vertical" style={{ width: "100%" }}>
           <Button

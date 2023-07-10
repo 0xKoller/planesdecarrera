@@ -1,42 +1,42 @@
 [
   {
     "key": "1",
-    "name": "Gestión de Contenedores",
-    "capacidad": "Autonomo"
+    "name": "Diseñar y documentar escenarios y casos de prueba de baja complejidad",
+    "capacidad": "Aprendiz"
   },
   {
     "key": "2",
-    "name": "Implementación de arquitecturas en nubes",
-    "capacidad": "Autonomo"
+    "name": "Reutiliza componentes existentes integrándolos con código propio.",
+    "capacidad": "Aprendiz"
   },
   {
     "key": "3",
-    "name": "Brindar apoyo en el diseño, desarrollo y documentación de soluciones TI Cloud",
-    "capacidad": "Autonomo"
+    "name": "Colabora en la ejecución de pruebas unitarias.",
+    "capacidad": "Aprendiz"
   },
   {
     "key": "4",
-    "name": "Actualizar y dar mantenimiento a los sistemas informáticos Cloud",
-    "capacidad": "Autonomo"
+    "name": "Aprendizaje continuo",
+    "capacidad": "Lo pone en practica"
   },
   {
     "key": "5",
-    "name": "Monitoreo de servicios, aplicaciones y bases de datos en entornos cloud ",
-    "capacidad": "Autonomo"
+    "name": "Ejecución con visión de calidad o sea con mínima cantidad de bugs detectados",
+    "capacidad": "Lo pone en practica"
   },
   {
     "key": "6",
-    "name": "Elaborar indicadores, reportes, y presentaciones del área ",
-    "capacidad": "Autonomo"
+    "name": "Compromiso y responsabilidad",
+    "capacidad": "Es parte de su ADN"
   },
   {
     "key": "7",
-    "name": "Infraestructura como código",
-    "capacidad": "Autonomo"
+    "name": "Hacer que las cosas sucedan",
+    "capacidad": "Lo pone en practica"
   },
   {
     "key": "8",
-    "name": "Capacidades de monitorear los entornos",
-    "capacidad": "Lo pone en practica"
+    "name": "Cultura de Servicio",
+    "capacidad": "Es parte de su ADN"
   }
 ]
