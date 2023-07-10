@@ -5,9 +5,9 @@ import Timeline from "antd/es/timeline";
 import Card from "antd/es/card";
 import Descriptions from "antd/es/descriptions";
 import Collapse from "antd/es/collapse";
-import desc from "./desc.json";
-import matrix from "./matrix.json";
-import capa from "./capacities.json";
+import desc from "./trainee/desc.json";
+import matrix from "./trainee/matrix.json";
+import capa from "./trainee/capacities.json";
 
 const columns_desc = [
   {
@@ -103,15 +103,19 @@ const items = [
 export default function Especialista() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24">
-      <h1>Business System Teams</h1>
-      <h2>Especialista</h2>
-      <div>
+      <div className="flex flex-col items-center justify-center m-4">
+        <h1 className="text-xl text-red-600">Business System Teams</h1>
+        <h2 className="transition ease-in-out delay-100 text-red-500/50 hover:text-red-500">
+          Especialista
+        </h2>
+      </div>
+      <div className="p-2">
         <Timeline
           items={[
             {
               children: (
                 <Card title="Dev Trainee">
-                  <Descriptions title="Descripcion"></Descriptions>
+                  <Descriptions title="Descripcion" />
                   <Collapse items={items} />
                 </Card>
               ),

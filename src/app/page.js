@@ -5,7 +5,7 @@ import Space from "antd/es/space";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24">
+    <main className="flex min-h-screen flex-col items-center justify-center">
       <h1>Planes de Carrera</h1>
       <div className="container">
         <Space direction="vertical" style={{ width: "100%" }}>
@@ -22,9 +22,28 @@ export default function Home() {
             type="primary"
             block
             ghost
+            disabled
             style={{ color: "red", borderColor: "red" }}
           >
-            Mallas
+            PST
+          </Button>
+          <Button
+            type="primary"
+            block
+            ghost
+            disabled
+            style={{ color: "red", borderColor: "red" }}
+          >
+            SQA
+          </Button>
+          <Button
+            type="primary"
+            block
+            ghost
+            disabled
+            style={{ color: "red", borderColor: "red" }}
+          >
+            PST
           </Button>
         </Space>
       </div>
