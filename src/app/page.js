@@ -1,7 +1,6 @@
 "use client";
 
 import { Button, Space } from "antd";
-import Link from "next/link";
 
 export default function Home() {
   return (
