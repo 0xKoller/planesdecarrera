@@ -1,10 +1,14 @@
 "use client";
 import React from "react";
+
+// ANTD
 import Table from "antd/es/table";
 import Timeline from "antd/es/timeline";
 import Card from "antd/es/card";
 import Descriptions from "antd/es/descriptions";
 import Collapse from "antd/es/collapse";
+
+// DATA
 import desc from "./trainee/desc.json";
 import matrix from "./trainee/matrix.json";
 import capa from "./trainee/capacities.json";
@@ -56,6 +60,54 @@ const columns_capa = [
 ];
 
 const items = [
+  {
+    key: "1",
+    label: "Que hace?",
+    children: (
+      <>
+        {/* <Table
+          pagination={false}
+          dataSource={desc}
+          columns={columns_desc}
+          size="small"
+        /> */}
+        <p>Test</p>
+      </>
+    ),
+  },
+  {
+    key: "2",
+    label: "Matriz de conocimientos",
+    children: (
+      <>
+        {/* <Table
+          pagination={false}
+          dataSource={desc}
+          columns={columns_desc}
+          size="small"
+        /> */}
+        <p>Test</p>
+      </>
+    ),
+  },
+  {
+    key: "3",
+    label: "Capacidades a incorporar",
+    children: (
+      <>
+        {/* <Table
+          pagination={false}
+          dataSource={desc}
+          columns={columns_desc}
+          size="small"
+        /> */}
+        <p>Test</p>
+      </>
+    ),
+  },
+];
+
+const itemsTrainee = [
   {
     key: "1",
     label: "Que hace?",
@@ -116,7 +168,7 @@ export default function Especialista() {
               children: (
                 <Card title="Dev Trainee">
                   <Descriptions title="Descripcion" />
-                  <Collapse items={items} />
+                  <Collapse items={itemsTrainee} />
                 </Card>
               ),
             },
@@ -124,7 +176,7 @@ export default function Especialista() {
               children: (
                 <Card title="Dev Jr">
                   <Descriptions title="Descripcion" />
-                  <Collapse />
+                  <Collapse items={items} />
                 </Card>
               ),
             },
@@ -132,7 +184,7 @@ export default function Especialista() {
               children: (
                 <Card title="Dev SSR">
                   <Descriptions title="Descripcion" />
-                  <Collapse />
+                  <Collapse items={items} />
                 </Card>
               ),
             },
@@ -140,7 +192,7 @@ export default function Especialista() {
               children: (
                 <Card title="Dev SR">
                   <Descriptions title="Descripcion" />
-                  <Collapse />
+                  <Collapse items={items} />
                 </Card>
               ),
             },
@@ -148,7 +200,7 @@ export default function Especialista() {
               children: (
                 <Card title="Dev Lider">
                   <Descriptions title="Descripcion" />
-                  <Collapse />
+                  <Collapse items={items} />
                 </Card>
               ),
             },

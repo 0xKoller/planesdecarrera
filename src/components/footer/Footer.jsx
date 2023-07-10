@@ -10,6 +10,7 @@ export const Footer = () => {
       >
         Linkedin
       </Link>
+
       <Link
         className="hover:text-red-600 transition ease-in-out delay-150"
         href="https://www.instagram.com/tsoftglobal/"
