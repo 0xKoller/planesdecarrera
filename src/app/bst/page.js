@@ -1,5 +1,6 @@
 "use client";
 
+import { Navbar } from "@/components/navbar/Navbar";
 import Button from "antd/es/button";
 import Space from "antd/es/space";
 
@@ -10,21 +11,18 @@ export default function FirstPost() {
       <div className="container">
         <Space direction="vertical" style={{ width: "100%" }}>
           <Button
-            href="./bst/lider"
             type="primary"
             block
             ghost
-            style={{ color: "red", borderColor: "red" }}
             disabled
+            className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
           >
             Lider
           </Button>
           <Button
-            type="primary"
             href="./bst/especialista"
             block
-            ghost
-            style={{ color: "red", borderColor: "red" }}
+            className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
           >
             Especialista
           </Button>
@@ -32,8 +30,8 @@ export default function FirstPost() {
             type="primary"
             block
             ghost
-            style={{ color: "red", borderColor: "red" }}
             disabled
+            className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
           >
             Negocios y gestión
           </Button>

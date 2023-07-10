@@ -121,13 +121,36 @@ export default function Especialista() {
               ),
             },
             {
-              children: "Solve initial network problems 2015-09-01",
+              children: (
+                <Card title="Dev Jr">
+                  <Descriptions title="Descripcion" />
+                  <Collapse />
+                </Card>
+              ),
             },
             {
-              children: "Technical testing 2015-09-01",
+              children: (
+                <Card title="Dev SSR">
+                  <Descriptions title="Descripcion" />
+                  <Collapse />
+                </Card>
+              ),
             },
             {
-              children: "Network problems being solved 2015-09-01",
+              children: (
+                <Card title="Dev SR">
+                  <Descriptions title="Descripcion" />
+                  <Collapse />
+                </Card>
+              ),
+            },
+            {
+              children: (
+                <Card title="Dev Lider">
+                  <Descriptions title="Descripcion" />
+                  <Collapse />
+                </Card>
+              ),
             },
           ]}
         />
