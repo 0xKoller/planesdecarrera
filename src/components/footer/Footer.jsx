@@ -3,7 +3,7 @@ import Link from "next/link";
 
 export const Footer = () => {
   return (
-    <div className="flex p-2 items-center justify-evenly">
+    <div className="flex p-2 items-center justify-evenly w-full">
       <Link
         className="hover:text-red-600 transition ease-in-out delay-150"
         href="https://www.linkedin.com/company/tsoft/"

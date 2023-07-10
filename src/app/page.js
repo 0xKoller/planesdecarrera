@@ -2,13 +2,10 @@
 
 import Button from "antd/es/button";
 import Space from "antd/es/space";
-import Logo from "./logo.webp";
-import Image from "next/image";
 
 export default function Home() {
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center">
-      <Image className="m-2" width={500} src={Logo} alt="Logo de TSOFT" />
+    <main className="flex flex-col items-center justify-centerx w-full">
       <h1 className="text-3xl  text-red-600">Planes de Carrera</h1>
       <div className="container">
         <Space direction="vertical" style={{ width: "100%" }}>
