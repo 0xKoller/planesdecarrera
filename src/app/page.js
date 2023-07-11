@@ -7,6 +7,8 @@ export default function Home() {
   return (
     <main className="flex flex-col items-center justify-centerx w-full">
       <h1 className="text-3xl  text-red-600">Planes de Carrera</h1>
+      {/* La barra de abajo es para debug */}
+      <h1 className="text-3xl  text-red-600">Test</h1>
       <div className="container">
         <Space direction="vertical" style={{ width: "100%" }}>
           <Button
