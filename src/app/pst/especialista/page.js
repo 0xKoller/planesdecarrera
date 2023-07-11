@@ -358,7 +358,7 @@ export default function Especialista() {
           items={[
             {
               children: (
-                <Card title="Dev Trainee">
+                <Card title="DevOps Trainee">
                   <Descriptions title="Descripcion" />
                   <Collapse items={itemsTrainee} />
                 </Card>
@@ -366,7 +366,7 @@ export default function Especialista() {
             },
             {
               children: (
-                <Card title="Dev Jr">
+                <Card title="DevOps Jr">
                   <Descriptions title="Descripcion" />
                   <Collapse items={itemsJr} />
                 </Card>
@@ -374,7 +374,7 @@ export default function Especialista() {
             },
             {
               children: (
-                <Card title="Dev SSR">
+                <Card title="DevOps SSR">
                   <Descriptions title="Descripcion" />
                   <Collapse items={itemsSsr} />
                 </Card>
@@ -382,7 +382,7 @@ export default function Especialista() {
             },
             {
               children: (
-                <Card title="Dev SR">
+                <Card title="DevOps SR">
                   <Descriptions title="Descripcion" />
                   <Collapse items={itemsSr} />
                 </Card>
@@ -390,7 +390,7 @@ export default function Especialista() {
             },
             {
               children: (
-                <Card title="Dev Lider">
+                <Card title="DevOps Lider">
                   <Descriptions title="Descripcion" />
                   <Collapse items={itemsLeader} />
                 </Card>
