@@ -1,42 +1,67 @@
 [
   {
     "key": "1",
-    "name": "Diseñar y documentar escenarios y casos de prueba de baja complejidad",
+    "name": "Realiza ejecuciones de pruebas manuales y automatizadas",
     "capacidad": "Aprendiz"
   },
   {
     "key": "2",
-    "name": "Reutiliza componentes existentes integrándolos con código propio.",
+    "name": "Revisa scripts de prueba manuales",
     "capacidad": "Aprendiz"
   },
   {
     "key": "3",
-    "name": "Colabora en la ejecución de pruebas unitarias.",
+    "name": "Reporta defectos encontrados",
     "capacidad": "Aprendiz"
   },
   {
     "key": "4",
-    "name": "Aprendizaje continuo",
-    "capacidad": "Lo pone en practica"
+    "name": "Escribe scripts de prueba manuales de baja complejidad",
+    "capacidad": "Aprendiz"
   },
   {
     "key": "5",
-    "name": "Ejecución con visión de calidad o sea con mínima cantidad de bugs detectados",
+    "name": "Aplicación de los conocimientos adquiridos en el servicio",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "6",
-    "name": "Compromiso y responsabilidad",
-    "capacidad": "Es parte de su ADN"
+    "name": "Asistencia a recursos trainee (operativa y formativa)",
+    "capacidad": "Lo pone en practica"
   },
   {
     "key": "7",
-    "name": "Hacer que las cosas sucedan",
+    "name": "Colaboración con referentes del servicio con enfoque a la optimización del valor entregado",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "8",
-    "name": "Cultura de Servicio",
-    "capacidad": "Es parte de su ADN"
+    "name": "Trabajo en equipo",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "9",
+    "name": "Aprendizaje continuo e innovación",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "10",
+    "name": "Servicio al cliente",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "10",
+    "name": "Orientación a objetivos",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "11",
+    "name": "Capacidad analítica",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "12",
+    "name": "Buena comunicación",
+    "capacidad": "Lo pone en practica"
   }
 ]

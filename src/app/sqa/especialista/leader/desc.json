@@ -1,77 +1,101 @@
 [
   {
     "key": "1",
-    "name": "Comprender los requerimientos del software, en estrecho contacto con el Product Owner",
-    "capacidad": "Master"
+    "name": "Lidera y gestiona el equipo técnico asignado, los recursos, procesos y herramientas necesarias para la ejecución del proyecto/servicio.​",
+    "capacidad": "Autonomo"
   },
   {
     "key": "2",
-    "name": "Lidera la estimación del esfuerzo",
-    "capacidad": "Master"
+    "name": "Es responsable técnico de la definición e implementación de los frameworks de pruebas (metodológico/técnico) en los proyectos/servicios, asegurando la calidad de los entregables del equipo a su cargo.​",
+    "capacidad": "Autonomo"
   },
   {
     "key": "3",
-    "name": "Modeliza y refina especificaciones a fin de determinar un diseño detallado para implantar la funcionalidad requerida",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "Supervisa, realiza coaching y evalúa el desempeño de cada integrante del equipo y genera el plan de acción para desarrollarlos profesionalmente.​",
+    "capacidad": "Autonomo"
   },
   {
     "key": "4",
-    "name": "Lidera y Construye un producto de media a alta complejidad, en estrecho contacto con El Product Owner",
+    "name": "Brinda acompañamiento y soporte técnico interno y al cliente.​",
     "capacidad": "Autonomo"
   },
   {
     "key": "5",
-    "name": "Reutiliza componentes existentes integrándolos con código propio",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "Gestiona la demanda de su equipo a cargo asegurando su productividad.​",
+    "capacidad": "Autonomo"
   },
   {
     "key": "6",
-    "name": "Ser Responsable del diseño y construccion de la integraciones.",
+    "name": "Colabora con la visibilidad del proyecto y la generación de métricas. Colabora en demos de preventa y definición de propuestas técnicas.​",
     "capacidad": "Autonomo"
   },
   {
     "key": "7",
-    "name": "Lidera la revision de código fuente, propone mejoras y explica al equipo las mismas",
+    "name": "Contribuye en el plan de formación TSOFT.",
     "capacidad": "Autonomo"
   },
   {
     "key": "8",
-    "name": "Aprendizaje continuo",
-    "capacidad": "Es parte de su ADN"
+    "name": "Productividad: medida por finalización de proyecto y de su equipo, y gestión de asignación. ​",
+    "capacidad": "Autonomo"
   },
   {
     "key": "9",
-    "name": "Gestionar y Liderar un Equipo Tecnico multidisciplinario de Desarrollo de Software",
+    "name": "Calidad: medida como el cumplimiento con la gestión de la calidad y precisión del trabajo.​",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "10",
-    "name": "Transferencia de Conocimiento tecnico y buenas practicas al resto del Equipo.",
+    "name": "Desarrollo de equipo: medido por la evolución profesional del equipo.​",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "10",
+    "name": "Satisfacción del cliente.​",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "11",
-    "name": "Ser el Responsable de la Creación e Implementacion de  software diseñados con cero defectos detectados. ",
+    "name": "Innovación:  generación de nuevos requerimientos en los clientes a partir de identificación de puntos de mejora.​",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "12",
-    "name": "Innovación",
+    "name": "Mejora Continua: Optimiza los marcos de trabajo existentes y/o proponer nuevos.​",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "13",
-    "name": "Hacer que las cosas sucedan",
-    "capacidad": "Es parte de su ADN"
+    "name": "Trabajo en equipo",
+    "capacidad": "Lo pone en practica"
   },
   {
     "key": "14",
-    "name": "Trabajo en equipo",
-    "capacidad": "Es parte de su ADN"
+    "name": "Aprendizaje continuo e innovación",
+    "capacidad": "Lo pone en practica"
   },
   {
     "key": "15",
-    "name": "Cultura de Servicio",
-    "capacidad": "Es parte de su ADN"
+    "name": "Servicio al cliente",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "16",
+    "name": "Orientación a objetivos",
+    "capacidad": "Lo pone en practica"
+  },{
+    "key": "17",
+    "name": "Capacidad analítica",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "18",
+    "name": "Buena comunicación",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "19",
+    "name": "Liderazgo y empoderamiento",
+    "capacidad": "Aprendiz"
   }
 ]

@@ -1,134 +1,155 @@
 [
   {
     "key": "1",
-    "name": "Al menos 3/4 años desarrollando en herramientas de su especialidad",
+    "name": "5 años de participación activa en servicios de testing aplicando los tareas propias del puesto.",
     "capacidad": "Cumple"
   },
   {
     "key": "2",
-    "name": "O haber diseñado al menos dos productos de alta complejidad",
-    "capacidad": "Cumple"
+    "name": "Conocimientos avanzados de testing en contexto ágiles y escalamiento de agilidad.",
+    "capacidad": "Autonomo"
   },
   {
     "key": "3",
-    "name": "O haber participado en al menos 50 iteraciones",
-    "capacidad": "Cumple"
+    "name": "Diseño orientado a objeto y testing de aplicaciones orientadas a objetos y APIs.",
+    "capacidad": "Autonomo"
   },
   {
     "key": "4",
-    "name": "Todas las del SSR en nivel AUTONOMO ",
+    "name": "Automatización ISQTB",
     "capacidad": "Autonomo"
   },
   {
     "key": "5",
-    "name": "Control de Versiones​ . SCM - Metodologia GItFlow",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "Herramientas de automatización (Selenium y Tosca)",
+    "capacidad": "Autonomo"
   },
   {
     "key": "6",
-    "name": "Programacion WEB Base HTML / CSS​ ",
-    "capacidad": "Master"
+    "name": "Conocimientos ISQTB sobre testing de seguridad, de performance, de usabilidad y de aplicaciones móviles.",
+    "capacidad": "Autonomo"
   },
   {
     "key": "7",
-    "name": "Programacion Lenguaje Javascript​",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "ISQTB foundation",
+    "capacidad": "Autonomo"
   },
   {
     "key": "8",
-    "name": "Lenguajes C#/PHP/Java/C/Python",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "SCRUM",
+    "capacidad": "Autonomo"
   },
   {
     "key": "9",
-    "name": "Lenguajes FWK  Ruby/NodeJS/Go​/React/Angular/Vue/Django/ReacNative/Ionic/Kotlin",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "Scrum avanzado",
+    "capacidad": "Autonomo"
   },
   {
     "key": "10",
-    "name": "Base de Datos​ - Lenguaje SQL - PLSQL - ",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "Mas alla del Scrum",
+    "capacidad": "Autonomo"
   },
   {
     "key": "11",
-    "name": "Gestor de paquetes / Empaquetador de archivos",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "ISPTQB Agile Tester",
+    "capacidad": "Autonomo"
   },
   {
     "key": "12",
-    "name": "POO (Programacion Orientada a Objetos)​",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "Agile Testing Felow",
+    "capacidad": "Autonomo"
   },
   {
     "key": "13",
-    "name": "Principios SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion) ",
+    "name": "SQL inicial",
     "capacidad": "Autonomo"
   },
-  { "key": "14", "name": "Contenedores", "capacidad": "Autonomo" },
+  {
+    "key": "14",
+    "name": "Diseñor orientado a objetos",
+    "capacidad": "Autonomo"
+  },
   {
     "key": "15",
-    "name": "Manejo de Servidor Web / Aplicación Server - Tomcat - Jboss - WebSphere - Weblogic",
+    "name": "Testing de Software OO",
     "capacidad": "Autonomo"
   },
   {
     "key": "16",
-    "name": "ORM (Object-Relational mapping) ",
+    "name": "SAFe",
+    "capacidad": "Autonomo"
+  }, {
+    "key": "17",
+    "name": "Framework Agile Tsoft",
     "capacidad": "Autonomo"
   },
-  { "key": "17", "name": "SOAP / API Restfull​", "capacidad": "Autonomo" },
   {
     "key": "18",
-    "name": "Automatizador de tareas - Flujo CI / CD​",
+    "name": "SQL Avanzado",
     "capacidad": "Autonomo"
   },
   {
     "key": "19",
-    "name": "Patrones de Diseño​",
+    "name": "ISTQB Automation",
     "capacidad": "Autonomo"
   },
   {
     "key": "20",
-    "name": "Autenticación - SSO - Desarrollo Software Seguro​",
+    "name": "API Testing",
     "capacidad": "Autonomo"
   },
   {
     "key": "21",
-    "name": "Implementacion del Resuktado del Analisis de CODIGO​",
+    "name": "Testing Continuo",
     "capacidad": "Autonomo"
   },
   {
     "key": "22",
-    "name": "Automatizador de tareas - Flujo CI / CD​",
+    "name": "Load Runner",
     "capacidad": "Autonomo"
   },
   {
     "key": "23",
-    "name": "RegEx (Manejo de Expresiones Regulares)​",
+    "name": "Tricentis Fload + Neoload",
     "capacidad": "Autonomo"
   },
   {
     "key": "24",
-    "name": "Patrones de Diseño del GOF (The Gang of Four)​",
+    "name": "Jmeter",
     "capacidad": "Autonomo"
   },
   {
     "key": "25",
-    "name": "Definicion, Manejo y Uso Colas de mensajes​",
-    "capacidad": "Autonomo"
+    "name": "ISTQB Security",
+    "capacidad": "Aprendiz"
   },
   {
     "key": "26",
-    "name": "Tecnicas y Tipos de Almacenamiento cache​",
+    "name": "Selenium",
     "capacidad": "Autonomo"
   },
   {
     "key": "27",
-    "name": "Motores de búsqueda​",
-    "capacidad": "Autonomo"
+    "name": "Tosca",
+"capacidad": "Autonomo"
   },
   {
     "key": "28",
-    "name": "Patrones de Arquitectura​",
+    "name": "UFT",
+"capacidad": "Autonomo"
+  },
+  {
+    "key": "29",
+    "name": "ISTQB Performance",
     "capacidad": "Autonomo"
-  }
-]
+  },
+  {
+    "key": "30",
+    "name": "ISTQB Usability",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "31",
+    "name": "ISTQB Mobile App",
+    "capacidad": "Aprendiz"
+  }]

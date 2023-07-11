@@ -1,57 +1,87 @@
 [
   {
     "key": "1",
-    "name": "Participa en la estimación de esfuerzos",
+    "name": "Realiza ejecuciones de pruebas manuales y automatizadas",
     "capacidad": "Autonomo"
   },
   {
     "key": "2",
-    "name": "Modeliza y refina especificaciones a fin de determinar un diseño detallado para implantar la funcionalidad requerida",
+    "name": "Revisa scripts de prueba manuales",
     "capacidad": "Autonomo"
   },
   {
     "key": "3",
-    "name": "Construye un producto de baja o media complejidad",
+    "name": "Reporta defectos encontrados",
     "capacidad": "Autonomo"
   },
   {
     "key": "4",
-    "name": "Reutiliza componentes existentes integrándolos con código propio",
+    "name": "Escribe scripts de prueba manuales de baja complejidad",
     "capacidad": "Autonomo"
   },
   {
     "key": "5",
-    "name": "Diseña y ejecuta pruebas unitarias",
+    "name": "Escribe scripts de prueba de baja complejidad",
     "capacidad": "Autonomo"
   },
   {
     "key": "6",
-    "name": "Revisa el código para resolver defectos y mejorarlos",
+    "name": "Analiza requerimientos funcionales",
     "capacidad": "Autonomo"
   },
   {
     "key": "7",
-    "name": "Aprendizaje continuo",
+    "name": "Revisa defectos reportados por el QA Junior",
     "capacidad": "Autonomo"
   },
   {
     "key": "8",
-    "name": "Que construya Productos diseñados con cero defectos detectados",
-    "capacidad": "Lo pone en practica"
+    "name": "Colabora con el QA Sr en la planificación de pruebas",
+    "capacidad": "Autonomo"
   },
   {
     "key": "9",
-    "name": "Hacer que las cosas sucedan",
+    "name": "Soporte a recursos Jr y Trainee.",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "10",
-    "name": "Trabajo en equipo",
+    "name": "Utilización de herramientas de automatización de pruebas.",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "10",
+    "name": "Colaboración con recursos Sr en cuestiones operativas",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "11",
-    "name": "Cultura de Servicio",
+    "name": "Trabajo en equipo",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "12",
+    "name": "Aprendizaje continuo e innovación",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "13",
+    "name": "Servicio al cliente",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "14",
+    "name": "Orientación a objetivos",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "15",
+    "name": "Capacidad analítica",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "16",
+    "name": "Buena comunicación",
     "capacidad": "Lo pone en practica"
   }
 ]

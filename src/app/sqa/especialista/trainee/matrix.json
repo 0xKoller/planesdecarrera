@@ -1,57 +1,31 @@
 [
   {
     "key": "1",
-    "name": "Haber cursado materias de programación básico, pensamiento computacional o algoritmos ",
+    "name": "No requiere experiencia en el campo sino formación de bootcamp",
     "capacidad": "Cumple"
   },
   {
     "key": "2",
-    "name": "Conoce la lógica de la Programación",
-    "capacidad": "Cumple"
+    "name": "SQL Inicial",
+    "capacidad": "Aprendiz"
   },
   {
     "key": "3",
-    "name": "Conocimientos de Algoritmos y estructura de datos.",
+    "name": "Conceptos fundamentales de pruebas",
     "capacidad": "Aprendiz"
   },
   {
     "key": "4",
-    "name": "Conoce el Paradigma de Programación Orientado a Objetos",
+    "name": "ISQTB foundation",
     "capacidad": "Aprendiz"
   },
   {
     "key": "5",
-    "name": "Control de Versiones​ . SCM - Metodologia GItFlow",
+    "name": "SCRUM",
     "capacidad": "Aprendiz"
   },
   {
     "key": "6",
-    "name": "Programacion WEB Base HTML / CSS​ ",
-    "capacidad": "Aprendiz"
-  },
-  {
-    "key": "7",
-    "name": "Programacion Lenguaje Javascript​",
-    "capacidad": "Aprendiz"
-  },
-  {
-    "key": "8",
-    "name": "Lenguajes C#/PHP/Java/C/Python",
-    "capacidad": "No llega a aprendiz aun "
-  },
-  {
-    "key": "9",
-    "name": "Lenguajes FWK  Ruby/NodeJS/Go​/React/Angular/Vue/Django/ReacNative/Ionic/Kotlin",
-    "capacidad": "No llega a aprendiz aun "
-  },
-  {
-    "key": "10",
-    "name": "Base de Datos​ - Lenguaje SQL - PLSQL - ",
-    "capacidad": "Aprendiz"
-  },
-  {
-    "key": "11",
-    "name": "Gestor de Paquetes​",
-    "capacidad": "No llega a aprendiz aun "
-  }
-]
+    "name": "SQL inicial",
+    "capacidad": "Autonomo"
+  }]

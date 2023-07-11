@@ -1,102 +1,130 @@
 [
   {
     "key": "1",
-    "name": "Al menos 1.5 años desarrollando en herramientas de su especialidad",
+    "name": "3 años de participación activa en servicios de testing aplicando los tareas propias del puesto.",
     "capacidad": "Cumple"
   },
   {
     "key": "2",
-    "name": "O la participación en equipos de desarrollo agiles por al menos 20 iteraciones incrementales",
-    "capacidad": "Cumple"
+    "name": "Diseño orientado a objeto y testing de aplicaciones orientadas a objetos y APIs.",
+    "capacidad": "Autonomo"
   },
   {
     "key": "3",
-    "name": "Todas las del JR en nivel AUTONOMO",
+    "name": "Automatización ISQTB",
     "capacidad": "Autonomo"
   },
   {
     "key": "4",
-    "name": "Control de Versiones​ . SCM - Metodologia GItFlow",
+    "name": "Herramientas de automatización (Selenium y Tosca)",
     "capacidad": "Autonomo"
   },
   {
     "key": "5",
-    "name": "Programacion WEB Base HTML / CSS​ ",
+    "name": "ISQTB foundation",
     "capacidad": "Autonomo"
   },
   {
     "key": "6",
-    "name": "Programacion Lenguaje Javascript​",
+    "name": "SCRUM",
     "capacidad": "Autonomo"
   },
   {
     "key": "7",
-    "name": "Lenguajes C#/PHP/Java/C/Python",
+    "name": "Scrum avanzado",
     "capacidad": "Autonomo"
   },
   {
     "key": "8",
-    "name": "Lenguajes FWK  Ruby/NodeJS/Go​/React/Angular/Vue/Django/ReacNative/Ionic/Kotlin",
+    "name": "Mas alla del Scrum",
     "capacidad": "Autonomo"
   },
   {
     "key": "9",
-    "name": "Base de Datos​ - Lenguaje SQL - PLSQL - ",
+    "name": "ISPTQB Agile Tester",
     "capacidad": "Autonomo"
   },
   {
     "key": "10",
-    "name": "Gestor de paquetes / Empaquetador de archivos",
-    "capacidad": "Autonomo"
+    "name": "Agile Testing Felow",
+    "capacidad": "Aprendiz"
   },
   {
     "key": "11",
-    "name": "POO (Programacion Orientada a Objetos)",
+    "name": "SQL inicial",
     "capacidad": "Autonomo"
   },
   {
     "key": "12",
-    "name": "Principios SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion) ​",
+    "name": "Diseñor orientado a objetos",
     "capacidad": "Aprendiz"
   },
   {
     "key": "13",
-    "name": "Contenedores",
-    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+    "name": "Testing de Software OO",
+    "capacidad": "Aprendiz"
   },
   {
     "key": "14",
-    "name": "Manejo de Servidor Web / Aplicación Server - Tomcat - Jboss - WebSphere - Weblogic",
-    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+    "name": "SAFe",
+    "capacidad": "Aprendiz"
   },
   {
     "key": "15",
-    "name": "ORM (Object-Relational mapping) ",
+    "name": "Framework Agile Tsoft",
     "capacidad": "Aprendiz"
   },
   {
     "key": "16",
-    "name": "SOAP / API Restfull​",
-    "capacidad": "Transicion de Aprendiz a Autonomo/a"
-  },
-  {
+    "name": "SQL Avanzado",
+    "capacidad": "Autonomo"
+  }, {
     "key": "17",
-    "name": "Automatizador de tareas - Flujo CI / CD​",
-    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+    "name": "ISTQB Automation",
+    "capacidad": "Aprendiz"
   },
   {
     "key": "18",
-    "name": "Patrones de Diseño​",
-    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+    "name": "API Testing",
+    "capacidad": "Aprendiz"
   },
   {
     "key": "19",
-    "name": "Autenticación - SSO - Desarrollo Software Seguro​",
-    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+    "name": "Testing Continuo",
+    "capacidad": "Aprendiz"
   },
   {
     "key": "20",
-    "name": "Implementacion del Resultado del Analisis de CODIGO​",
-    "capacidad": "Transicion de Aprendiz a Autonomo/a"
-  }
-]
+    "name": "Load Runner",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "21",
+    "name": "Tricentis Fload + Neoload",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "22",
+    "name": "Jmeter",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "23",
+    "name": "Selenium",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "24",
+    "name": "Tosca",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "25",
+    "name": "UFT",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "26",
+    "name": "ISTQB Performance",
+    "capacidad": "Aprendiz"
+  }]

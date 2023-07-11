@@ -1,67 +1,106 @@
 [
   {
     "key": "1",
-    "name": "Comprender los requerimientos del software",
+    "name": "Realiza ejecuciones de pruebas manuales y automatizadas",
     "capacidad": "Autonomo"
   },
   {
     "key": "2",
-    "name": "Lidera la estimación del esfuerzo",
+    "name": "Revisa scripts de prueba manuales",
     "capacidad": "Autonomo"
   },
   {
     "key": "3",
-    "name": "Modeliza y refina especificaciones a fin de determinar un diseño detallado para implantar la funcionalidad requerida",
+    "name": "Reporta defectos encontrados",
     "capacidad": "Autonomo"
   },
   {
     "key": "4",
-    "name": "Construye un producto de media a alta complejidad",
+    "name": "Escribe scripts de prueba manuales de baja complejidad",
     "capacidad": "Autonomo"
   },
   {
     "key": "5",
-    "name": "Reutiliza componentes existentes integrándolos con código propio",
+    "name": "Escribe scripts de prueba de baja complejidad",
     "capacidad": "Autonomo"
   },
   {
     "key": "6",
-    "name": "Diseña y ejecuta pruebas de integración ",
+    "name": "Analiza requerimientos funcionales",
     "capacidad": "Autonomo"
   },
   {
     "key": "7",
-    "name": "Revisa el código para proponer mejoras ",
+    "name": "Revisa defectos reportados por el QA Junior",
     "capacidad": "Autonomo"
   },
   {
     "key": "8",
-    "name": "Aprendizaje continuo",
-    "capacidad": "Lo pone en practica"
+    "name": "Colabora con el QA Sr en la planificación de pruebas",
+    "capacidad": "Autonomo"
   },
   {
     "key": "9",
-    "name": "Creación de  software diseñados con cero defectos detectados",
+    "name": "Establece la estrategia y el plan de pruebas",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "10",
-    "name": "Innovación",
+    "name": "Ejecuta pruebas en contextos tradicionales y ágiles",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "10",
+    "name": "Colabora con el Líder de Servicio en la gestión de recursos y capacitaciones",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "11",
-    "name": "Hacer que las cosas sucedan",
+    "name": "Colabora con el Ingeniero QA en transformación operativa de servicios ongoing",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "12",
-    "name": "Trabajo en equipo",
+    "name": "Colaboración con Líder de Servicio",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "13",
-    "name": "Cultura de Servicio",
+    "name": "Apoyo al resto del equipo en el cumplimiento de objetivos del servicio",
     "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "14",
+    "name": "Propuesta de mejoras en el servicio en que se desempeñe",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "15",
+    "name": "Trabajo en equipo",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "16",
+    "name": "Aprendizaje continuo e innovación",
+    "capacidad": "Lo pone en practica"
+  },{
+    "key": "17",
+    "name": "Servicio al cliente",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "18",
+    "name": "Orientación a objetivos",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "19",
+    "name": "Capacidad analítica",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "20",
+    "name": "Buena comunicación",
+    "capacidad": "Aprendiz"
   }
 ]
