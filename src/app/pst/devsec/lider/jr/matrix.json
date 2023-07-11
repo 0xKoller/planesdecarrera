@@ -1,0 +1,73 @@
+[
+  {
+    "key": "1",
+    "name": "Al menos 1 desarrollo propio subido a GitHub",
+    "capacidad": "Cumple"
+  },
+  {
+    "key": "2",
+    "name": "Metodologías ágiles (Scrum, XP, Kanban).",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "3",
+    "name": "Completado Journey de Agilidad",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "4",
+    "name": "Herramientas colaborativas (Jira, Slack, Teams).",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "5",
+    "name": "Control de Versiones​ . SCM - Metodologia GItFlow",
+    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+  },
+  {
+    "key": "6",
+    "name": "Programacion WEB Base HTML / CSS​ ",
+    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+  },
+  {
+    "key": "7",
+    "name": "Programacion Lenguaje Javascript​",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "8",
+    "name": "Lenguajes C#/PHP/Java/C/Python",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "9",
+    "name": "Lenguajes FWK  Ruby/NodeJS/Go​/React/Angular/Vue/Django/ReacNative/Ionic/Kotlin",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "10",
+    "name": "Base de Datos​ - Lenguaje SQL - PLSQL - ",
+    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+  },
+  {
+    "key": "11",
+    "name": "Gestor de Paquetes​",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "12",
+    "name": "POO (Programacion Orientada a Objetos)​",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "13",
+    "name": "Principios SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion) ​",
+    "capacidad": "Aprendiz"
+  },
+  { "key": "14", "name": "Contenedores", "capacidad": "Aprendiz" },
+  {
+    "key": "15",
+    "name": "Manejo de Servidor Web / Aplicación Server - Tomcat - Jboss - WebSphere - Weblogic",
+    "capacidad": "Aprendiz"
+  }
+]

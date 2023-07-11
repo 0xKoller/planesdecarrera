@@ -1,0 +1,61 @@
+[
+  {
+    "key": "1",
+    "name": "Requiere la experiencia adquirida en la etapa anterior",
+    "capacidad": "Cumple"
+  },
+  {
+    "key": "2",
+    "name": "Lenguajes de programación orientado a objetos",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "3",
+    "name": "Conceptos en fundamentos de prueba de seguridad enfocadas en seguridad TI",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "4",
+    "name": "Conocimientos en gestión de proyectos",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "5",
+    "name": "Conocimiento de base de datos.",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "6",
+    "name": "Agile - DevOps",
+    "capacidad": "Transicion de Autonomo a Maestro"
+  },
+  {
+    "key": "7",
+    "name": "DevSecOps",
+    "capacidad": "Transicion de Autonomo a Maestro"
+  },
+  {
+    "key": "8",
+    "name": "Git",
+    "capacidad": "Transicion de Autonomo a Maestro"
+  },
+  {
+    "key": "9",
+    "name": "Docker",
+    "capacidad": "Transicion de Autonomo a Maestro"
+  },
+  {
+    "key": "10",
+    "name": "Despliegue Aplicaciones",
+    "capacidad": "Transicion de Autonomo a Maestro"
+  },
+  {
+    "key": "11",
+    "name": "Base de Datos",
+    "capacidad": "Transicion de Autonomo a Maestro"
+  },
+  {
+    "key": "12",
+    "name": "Lenguajes de Programación",
+    "capacidad": "Transicion de Autonomo a Maestro"
+  }]

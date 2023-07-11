@@ -1,0 +1,67 @@
+[
+  {
+    "key": "1",
+    "name": " Configuración de Herramientas de seguridad aplicativa",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "2",
+    "name": "Generación de reportes de seguridad",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "3",
+    "name": "Aplicar shift Left de seguridad en pipelines diseñados",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "4",
+    "name": "Ejecuta pruebas manuales y/o automatizadas sobre las aplicaciones según metodología de trabajo con las diferentes herramientas del portafolio de seguridad y ciberseguridad.",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "5",
+    "name": " Colabora en la gestión y creación de informes.",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "6",
+    "name": "Diseña con supervisión pruebas no complejas.",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "7",
+    "name": "Informa resultados de pruebas y reporta defectos y/o vulnerabilidades.",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "8",
+    "name": "Productividad: medida por finalización de ejecución",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "9",
+    "name": "Cumplimiento: Tareas realizadas bajo gestión deben ser cumplidas a cabalidad con altos niveles de calidad.",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "10",
+    "name": "Calidad: medida como el cumplimiento con la gestión de la calidad y precisión del trabajo.",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "11",
+    "name": "Aprendizaje continuo e innovación",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "12",
+    "name": "Trabajo en equipo",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "13",
+    "name": "Presentaciones Efectivas",
+    "capacidad": "Lo pone en practica"
+  }
+]

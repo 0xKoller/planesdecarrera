@@ -1,0 +1,42 @@
+[
+  {
+    "key": "1",
+    "name": " Requiere la experiencia adquirida en la etapa anterior",
+    "capacidad": "Cumple"
+  },
+  {
+    "key": "2",
+    "name": "Lenguajes de programación orientado a objetos",
+    "capacidad": "Cumple"
+  },
+  {
+    "key": "3",
+    "name": "Conceptos en fundamentos de prueba de seguridad enfocadas en seguridad TI",
+    "capacidad": "Cumple"
+  },
+  {
+    "key": "4",
+    "name": "Conocimientos en gestión de proyectos",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "5",
+    "name": "Conocimiento de base de datos.",
+    "capacidad": "Transicion de Autonomo a Master"
+  },
+  {
+    "key": "6",
+    "name": "Integración herramientas de Seguridad en Pipelines",
+    "capacidad": "Master"
+  },
+  {
+    "key": "7",
+    "name": "Cloud Security Intermedio",
+    "capacidad": "Transicion de Autonomo a Master"
+  },
+  {
+    "key": "8",
+    "name": "Ciber Security Intermedio",
+    "capacidad": "Transicion de Autonomo a Master"
+  }
+]

@@ -6,24 +6,34 @@ import Space from "antd/es/space";
 export default function FirstPost() {
   return (
     <main className="flex flex-col items-center justify-center p-8 w-full">
-      <h1 className="text-xl text-red-600">Business System Teams</h1>
+      <h1 className="text-xl text-red-600">Platform System Teams</h1>
       <div className="container">
         <Space direction="vertical" style={{ width: "100%" }}>
           <Button
-            href="./pst/devsec"
+            type="primary"
             block
+            ghost
+            disabled
             className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
           >
-            DevSecOps
+            Lider
           </Button>
           <Button
-            href="./pst/consultor"
+            href="./pst/devsec/especialista"
             block
             className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
           >
-            Consultor Seguridad
+            Especialista
           </Button>
-          
+          <Button
+            type="primary"
+            block
+            ghost
+            disabled
+            className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
+          >
+            Negocios y gestión
+          </Button>
         </Space>
       </div>
     </main>

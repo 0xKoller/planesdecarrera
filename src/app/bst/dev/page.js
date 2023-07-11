@@ -10,20 +10,30 @@ export default function FirstPost() {
       <div className="container">
         <Space direction="vertical" style={{ width: "100%" }}>
           <Button
-            href="./pst/devsec"
+            type="primary"
             block
+            ghost
+            disabled
             className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
           >
-            DevSecOps
+            Lider
           </Button>
           <Button
-            href="./pst/consultor"
+            href="./bst/especialista"
             block
             className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
           >
-            Consultor Seguridad
+            Especialista
           </Button>
-          
+          <Button
+            type="primary"
+            block
+            ghost
+            disabled
+            className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
+          >
+            Negocios y gestión
+          </Button>
         </Space>
       </div>
     </main>

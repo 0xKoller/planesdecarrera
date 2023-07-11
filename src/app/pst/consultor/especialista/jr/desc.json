@@ -1,0 +1,52 @@
+[
+  {
+    "key": "1",
+    "name": "Ejecuta pruebas manuales y/o automatizadas sobre las aplicaciones según metodología de trabajo con las diferentes herramientas del portafolio de seguridad y ciberseguridad.",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "2",
+    "name": "Diseña con supervisión pruebas no complejas.",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "3",
+    "name": "Informa resultados de pruebas y reporta defectos y/o vulnerabilidades.",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "4",
+    "name": "Colabora en la gestión y creación de informes",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "5",
+    "name": "Productividad: medida por finalización de ejecución",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "6",
+    "name": "Cumplimiento: Tareas realizadas bajo gestión deben ser cumplidas a cabalidad con altos niveles de calidad.",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "7",
+    "name": "Calidad: medida como el cumplimiento con la gestión de la calidad y precisión del trabajo.",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "8",
+    "name": "Aprendizaje continuo e innovación",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "9",
+    "name": "Trabajo en equipo",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "10",
+    "name": "Presentaciones Efectivas",
+    "capacidad": "Lo pone en practica"
+  }
+]
