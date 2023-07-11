@@ -17,27 +17,18 @@ export default function Home() {
             BST
           </Button>
           <Button
-            type="primary"
+            href="./pst"
             block
             className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
           >
             PST
           </Button>
           <Button
-            type="primary"
+          href="./sqa"
             block
             className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
           >
             SQA
-          </Button>
-          <Button
-            type="primary"
-            block
-            ghost
-            disabled
-            className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
-          >
-            PST
           </Button>
         </Space>
       </div>
