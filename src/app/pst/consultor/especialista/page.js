@@ -9,9 +9,6 @@ import Descriptions from "antd/es/descriptions";
 import Collapse from "antd/es/collapse";
 
 // DATA
-import descTrainee from "./trainee/desc.json";
-import matrixTrainee from "./trainee/matrix.json";
-import capaTrainee from "./trainee/capacities.json";
 import descJr from "./jr/desc.json";
 import matrixJr from "./jr/matrix.json";
 import capaJr from "./jr/capacities.json";
@@ -71,98 +68,7 @@ const columns_capa = [
   },
 ];
 
-const items = [
-  {
-    key: "1",
-    label: "Que hace?",
-    children: (
-      <>
-        {/* <Table
-          pagination={false}
-          dataSource={desc}
-          columns={columns_desc}
-          size="small"
-        /> */}
-        <p>Test</p>
-      </>
-    ),
-  },
-  {
-    key: "2",
-    label: "Matriz de conocimientos",
-    children: (
-      <>
-        {/* <Table
-          pagination={false}
-          dataSource={desc}
-          columns={columns_desc}
-          size="small"
-        /> */}
-        <p>Test</p>
-      </>
-    ),
-  },
-  {
-    key: "3",
-    label: "Capacidades a incorporar",
-    children: (
-      <>
-        {/* <Table
-          pagination={false}
-          dataSource={desc}
-          columns={columns_desc}
-          size="small"
-        /> */}
-        <p>Test</p>
-      </>
-    ),
-  },
-];
 
-const itemsTrainee = [
-  {
-    key: "1",
-    label: "Que hace?",
-    children: (
-      <>
-        <Table
-          pagination={false}
-          dataSource={descTrainee}
-          columns={columns_desc}
-          size="small"
-        />
-      </>
-    ),
-  },
-  {
-    key: "2",
-    label: "Matriz de conocimientos",
-    children: (
-      <>
-        <Table
-          dataSource={matrixTrainee}
-          columns={columns_matrix}
-          pagination={false}
-          size="small"
-        />
-      </>
-    ),
-  },
-  {
-    key: "3",
-    label: "Capacidades a incorporar",
-    children: (
-      <>
-        <Table
-          pagination={false}
-          dataSource={capaTrainee}
-          columns={columns_capa}
-          size="small"
-        />
-      </>
-    ),
-  },
-];
 
 const itemsJr = [
   {

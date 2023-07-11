@@ -71,53 +71,6 @@ const columns_capa = [
   },
 ];
 
-const items = [
-  {
-    key: "1",
-    label: "Que hace?",
-    children: (
-      <>
-        {/* <Table
-          pagination={false}
-          dataSource={desc}
-          columns={columns_desc}
-          size="small"
-        /> */}
-        <p>Test</p>
-      </>
-    ),
-  },
-  {
-    key: "2",
-    label: "Matriz de conocimientos",
-    children: (
-      <>
-        {/* <Table
-          pagination={false}
-          dataSource={desc}
-          columns={columns_desc}
-          size="small"
-        /> */}
-        <p>Test</p>
-      </>
-    ),
-  },
-  {
-    key: "3",
-    label: "Capacidades a incorporar",
-    children: (
-      <>
-        {/* <Table
-          pagination={false}
-          dataSource={desc}
-          columns={columns_desc}
-          size="small"
-        /> */}
-        <p>Test</p>
-      </>
-    ),
-  },
-];
 
 const itemsTrainee = [
   {
