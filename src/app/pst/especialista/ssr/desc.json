@@ -1,47 +1,47 @@
 [
   {
     "key": "1",
-    "name": "Participa en la estimación de esfuerzos",
+    "name": "Generación de pipelines en distintas tecnologías ",
     "capacidad": "Autonomo"
   },
   {
     "key": "2",
-    "name": "Modeliza y refina especificaciones a fin de determinar un diseño detallado para implantar la funcionalidad requerida",
+    "name": "Especialización en pipelines complejos",
     "capacidad": "Autonomo"
   },
   {
     "key": "3",
-    "name": "Construye un producto de baja o media complejidad",
+    "name": " capacidad completa de CI/CD en cualquier ámbito de despliegue.",
     "capacidad": "Autonomo"
   },
   {
     "key": "4",
-    "name": "Reutiliza componentes existentes integrándolos con código propio",
+    "name": "Analiza y propone escenarios de pruebas manuales y/o automatizadas sobre las aplicaciones según metodología de trabajo con las diferentes herramientas del portafolio de seguridad aplicativa.",
     "capacidad": "Autonomo"
   },
   {
     "key": "5",
-    "name": "Diseña y ejecuta pruebas unitarias",
+    "name": "Diseña pruebas complejas.",
     "capacidad": "Autonomo"
   },
   {
     "key": "6",
-    "name": "Revisa el código para resolver defectos y mejorarlos",
-    "capacidad": "Autonomo"
+    "name": "Informa resultados de pruebas y reporta defectos con sus respectivos informes técnicos y gerenciales.",
+    "capacidad": "Lo pone en practica"
   },
   {
     "key": "7",
-    "name": "Aprendizaje continuo",
-    "capacidad": "Autonomo"
+    "name": "  Productividad: medida por finalización de ejecución",
+    "capacidad": "Lo pone en practica"
   },
   {
     "key": "8",
-    "name": "Que construya Productos diseñados con cero defectos detectados",
+    "name": "  Cumplimiento: Tareas realizadas bajo gestión deben ser cumplidas a cabalidad con altos niveles de calidad.",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "9",
-    "name": "Hacer que las cosas sucedan",
+    "name": "Calidad: medida como el cumplimiento con la gestión de la calidad y precisión del trabajo.",
     "capacidad": "Lo pone en practica"
   },
   {
@@ -51,7 +51,32 @@
   },
   {
     "key": "11",
-    "name": "Cultura de Servicio",
+    "name": "Aprendizaje continuo e innovación",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "12",
+    "name": "Servicio al cliente",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "13",
+    "name": "Presentaciones Efectivas",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "14",
+    "name": "Capacidad de análisis e interpretación y ejecución de actividades",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "15",
+    "name": "Proactividad.",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "16",
+    "name": "Comunicación Efectiva",
     "capacidad": "Lo pone en practica"
   }
 ]

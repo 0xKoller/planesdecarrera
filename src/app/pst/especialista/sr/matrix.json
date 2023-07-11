@@ -1,134 +1,76 @@
 [
   {
     "key": "1",
-    "name": "Al menos 3/4 años desarrollando en herramientas de su especialidad",
+    "name": " Requiere la experiencia adquirida en la etapa anterior",
     "capacidad": "Cumple"
   },
   {
     "key": "2",
-    "name": "O haber diseñado al menos dos productos de alta complejidad",
-    "capacidad": "Cumple"
+    "name": "Lenguajes de programación orientado a objetos",
+    "capacidad": "Autonomo"
   },
   {
     "key": "3",
-    "name": "O haber participado en al menos 50 iteraciones",
-    "capacidad": "Cumple"
+    "name": "Conceptos de prueba de software enfocadas en seguridad aplicativa.",
+    "capacidad": "Autonomo"
   },
   {
     "key": "4",
-    "name": "Todas las del SSR en nivel AUTONOMO ",
+    "name": "Conocimientos en gestión de proyectos",
     "capacidad": "Autonomo"
   },
   {
     "key": "5",
-    "name": "Control de Versiones​ . SCM - Metodologia GItFlow",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": " Conocimientos avanzados en herramientas de seguridad aplicativa  e integraciones de las mismas.",
+    "capacidad": "Autonomo"
   },
   {
     "key": "6",
-    "name": "Programacion WEB Base HTML / CSS​ ",
-    "capacidad": "Master"
+    "name": "Docker",
+    "capacidad": "Autonomo"
   },
   {
     "key": "7",
-    "name": "Programacion Lenguaje Javascript​",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "Jenkins",
+    "capacidad": "Autonomo"
   },
   {
     "key": "8",
-    "name": "Lenguajes C#/PHP/Java/C/Python",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "Automatización de pruebas.",
+    "capacidad": "Autonomo"
   },
   {
     "key": "9",
-    "name": "Lenguajes FWK  Ruby/NodeJS/Go​/React/Angular/Vue/Django/ReacNative/Ionic/Kotlin",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "Orquestación de Releases",
+    "capacidad": "Transicion de Autonomo a Maestro"
   },
   {
     "key": "10",
-    "name": "Base de Datos​ - Lenguaje SQL - PLSQL - ",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "Feature Management",
+    "capacidad": "Transicion de Autonomo a Maestro"
   },
   {
     "key": "11",
-    "name": "Gestor de paquetes / Empaquetador de archivos",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "SER",
+    "capacidad": "Transicion de Autonomo a Maestro"
   },
   {
     "key": "12",
-    "name": "POO (Programacion Orientada a Objetos)​",
-    "capacidad": "Transicion de Autonomo a Master"
+    "name": "Gestión de Vulnerabilidades",
+    "capacidad": "Transicion de Autonomo a Maestro"
   },
   {
     "key": "13",
-    "name": "Principios SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion) ",
-    "capacidad": "Autonomo"
+    "name": "Gestión de Contenedores",
+    "capacidad": "Transicion de Autonomo a Maestro"
   },
-  { "key": "14", "name": "Contenedores", "capacidad": "Autonomo" },
+  {
+    "key": "14",
+    "name": "Gestión de Incidentes ",
+    "capacidad": "Transicion de Autonomo a Maestro"
+  },
   {
     "key": "15",
-    "name": "Manejo de Servidor Web / Aplicación Server - Tomcat - Jboss - WebSphere - Weblogic",
-    "capacidad": "Autonomo"
-  },
-  {
-    "key": "16",
-    "name": "ORM (Object-Relational mapping) ",
-    "capacidad": "Autonomo"
-  },
-  { "key": "17", "name": "SOAP / API Restfull​", "capacidad": "Autonomo" },
-  {
-    "key": "18",
-    "name": "Automatizador de tareas - Flujo CI / CD​",
-    "capacidad": "Autonomo"
-  },
-  {
-    "key": "19",
-    "name": "Patrones de Diseño​",
-    "capacidad": "Autonomo"
-  },
-  {
-    "key": "20",
-    "name": "Autenticación - SSO - Desarrollo Software Seguro​",
-    "capacidad": "Autonomo"
-  },
-  {
-    "key": "21",
-    "name": "Implementacion del Resuktado del Analisis de CODIGO​",
-    "capacidad": "Autonomo"
-  },
-  {
-    "key": "22",
-    "name": "Automatizador de tareas - Flujo CI / CD​",
-    "capacidad": "Autonomo"
-  },
-  {
-    "key": "23",
-    "name": "RegEx (Manejo de Expresiones Regulares)​",
-    "capacidad": "Autonomo"
-  },
-  {
-    "key": "24",
-    "name": "Patrones de Diseño del GOF (The Gang of Four)​",
-    "capacidad": "Autonomo"
-  },
-  {
-    "key": "25",
-    "name": "Definicion, Manejo y Uso Colas de mensajes​",
-    "capacidad": "Autonomo"
-  },
-  {
-    "key": "26",
-    "name": "Tecnicas y Tipos de Almacenamiento cache​",
-    "capacidad": "Autonomo"
-  },
-  {
-    "key": "27",
-    "name": "Motores de búsqueda​",
-    "capacidad": "Autonomo"
-  },
-  {
-    "key": "28",
-    "name": "Patrones de Arquitectura​",
-    "capacidad": "Autonomo"
-  }
-]
+    "name": "Assessment de Seguridad",
+    "capacidad": "Transicion de Autonomo a Maestro"
+  }]

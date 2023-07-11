@@ -1,42 +1,62 @@
 [
   {
     "key": "1",
-    "name": "Diseñar y documentar escenarios y casos de prueba de baja complejidad",
+    "name": "Implementación de pipelines básicos como código.",
     "capacidad": "Aprendiz"
   },
   {
     "key": "2",
-    "name": "Reutiliza componentes existentes integrándolos con código propio.",
+    "name": "Contenerización supervisada de aplicaciones.",
     "capacidad": "Aprendiz"
   },
   {
     "key": "3",
-    "name": "Colabora en la ejecución de pruebas unitarias.",
+    "name": "Documentación de prácticas y procesos a partir de los lineamientos  definidos por los roles con mayor seniority",
     "capacidad": "Aprendiz"
   },
   {
     "key": "4",
-    "name": "Aprendizaje continuo",
+    "name": "Capacidad de aprendizaje en tiempo y forma estipulados",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "5",
-    "name": "Ejecución con visión de calidad o sea con mínima cantidad de bugs detectados",
+    "name": "Entusiasmo en aprender nuevas tecnologías",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "6",
-    "name": "Compromiso y responsabilidad",
-    "capacidad": "Es parte de su ADN"
+    "name": "Propuesta de mejoras en el servicio en que se desempeñe con Compromiso y responsabilidad",
+    "capacidad": "Lo pone en practica"
   },
   {
     "key": "7",
-    "name": "Hacer que las cosas sucedan",
+    "name": "Trabajo en equipo",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "8",
-    "name": "Cultura de Servicio",
-    "capacidad": "Es parte de su ADN"
+    "name": "Aprendizaje continuo e innovación",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "9",
+    "name": "Servicio al cliente",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "10",
+    "name": "Presentaciones Efectivas",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "11",
+    "name": "Gestión del Tiempo",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "12",
+    "name": "Comunicación Efectiva",
+    "capacidad": "Lo pone en practica"
   }
 ]

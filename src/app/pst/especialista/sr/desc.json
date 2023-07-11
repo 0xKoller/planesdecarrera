@@ -1,67 +1,82 @@
 [
   {
     "key": "1",
-    "name": "Comprender los requerimientos del software",
+    "name": "Analiza y propone escenarios de pruebas manuales y/o automatizadas sobre las aplicaciones según metodología de trabajo con las diferentes herramientas del portafolio de seguridad aplicativa.",
     "capacidad": "Autonomo"
   },
   {
     "key": "2",
-    "name": "Lidera la estimación del esfuerzo",
+    "name": "Informa resultados de pruebas y reporta defectos con sus respectivos informes técnicos y gerenciales.",
     "capacidad": "Autonomo"
   },
   {
     "key": "3",
-    "name": "Modeliza y refina especificaciones a fin de determinar un diseño detallado para implantar la funcionalidad requerida",
+    "name": "Diseña pruebas complejas y analiza contextos generales de la organización.",
     "capacidad": "Autonomo"
   },
   {
     "key": "4",
-    "name": "Construye un producto de media a alta complejidad",
-    "capacidad": "Autonomo"
+    "name": "  Productividad: medida por finalización de ejecución",
+    "capacidad": "Lo pone en practica"
   },
   {
     "key": "5",
-    "name": "Reutiliza componentes existentes integrándolos con código propio",
-    "capacidad": "Autonomo"
+    "name": "  Cumplimiento: Tareas realizadas bajo gestión deben ser cumplidas a cabalidad con altos niveles de calidad.",
+    "capacidad": "Lo pone en practica"
   },
   {
     "key": "6",
-    "name": "Diseña y ejecuta pruebas de integración ",
-    "capacidad": "Autonomo"
+    "name": "Calidad: medida como el cumplimiento con la gestión de la calidad y precisión del trabajo.",
+    "capacidad": "Lo pone en practica"
   },
   {
     "key": "7",
-    "name": "Revisa el código para proponer mejoras ",
-    "capacidad": "Autonomo"
+    "name": "Liderazgo",
+    "capacidad": "Lo pone en practica"
   },
   {
     "key": "8",
-    "name": "Aprendizaje continuo",
+    "name": "Aprendizaje continuo e innovación",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "9",
-    "name": "Creación de  software diseñados con cero defectos detectados",
-    "capacidad": "Lo pone en practica"
-  },
-  {
-    "key": "10",
-    "name": "Innovación",
-    "capacidad": "Lo pone en practica"
-  },
-  {
-    "key": "11",
-    "name": "Hacer que las cosas sucedan",
-    "capacidad": "Lo pone en practica"
-  },
-  {
-    "key": "12",
     "name": "Trabajo en equipo",
     "capacidad": "Lo pone en practica"
   },
   {
+    "key": "10",
+    "name": "Presentaciones Efectivas",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "11",
+    "name": "Capacidad de análisis e interpretación y ejecución de actividades",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "12",
+    "name": "Proactividad.",
+    "capacidad": "Lo pone en practica"
+  },
+  {
     "key": "13",
-    "name": "Cultura de Servicio",
+    "name": "Comunicación Efectiva",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "14",
+    "name": "Capacidad de análisis e interpretación y ejecución de actividades",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "15",
+    "name": "Proactividad.",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "16",
+    "name": "Comunicación Efectiva",
     "capacidad": "Lo pone en practica"
   }
 ]

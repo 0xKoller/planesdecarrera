@@ -1,102 +1,91 @@
 [
   {
     "key": "1",
-    "name": "Al menos 1.5 años desarrollando en herramientas de su especialidad",
+    "name": " Requiere la experiencia adquirida en la etapa anterior",
     "capacidad": "Cumple"
   },
   {
     "key": "2",
-    "name": "O la participación en equipos de desarrollo agiles por al menos 20 iteraciones incrementales",
-    "capacidad": "Cumple"
+    "name": "Lenguajes de programación orientado a objetos",
+    "capacidad": "Autonomo"
   },
   {
     "key": "3",
-    "name": "Todas las del JR en nivel AUTONOMO",
+    "name": "Conceptos de prueba de software enfocadas en seguridad aplicativa.",
     "capacidad": "Autonomo"
   },
   {
     "key": "4",
-    "name": "Control de Versiones​ . SCM - Metodologia GItFlow",
+    "name": "Conocimientos en gestión de proyectos",
     "capacidad": "Autonomo"
   },
   {
     "key": "5",
-    "name": "Programacion WEB Base HTML / CSS​ ",
+    "name": "Conocimientos en herramientas de seguridad aplicativa.",
     "capacidad": "Autonomo"
   },
   {
     "key": "6",
-    "name": "Programacion Lenguaje Javascript​",
+    "name": "Docker",
     "capacidad": "Autonomo"
   },
   {
     "key": "7",
-    "name": "Lenguajes C#/PHP/Java/C/Python",
+    "name": "Jenkins",
     "capacidad": "Autonomo"
   },
   {
     "key": "8",
-    "name": "Lenguajes FWK  Ruby/NodeJS/Go​/React/Angular/Vue/Django/ReacNative/Ionic/Kotlin",
+    "name": "Automatización de pruebas.",
     "capacidad": "Autonomo"
   },
   {
     "key": "9",
-    "name": "Base de Datos​ - Lenguaje SQL - PLSQL - ",
+    "name": "Jenkins CI",
     "capacidad": "Autonomo"
   },
   {
     "key": "10",
-    "name": "Gestor de paquetes / Empaquetador de archivos",
+    "name": "CloudBees CI",
     "capacidad": "Autonomo"
   },
   {
     "key": "11",
-    "name": "POO (Programacion Orientada a Objetos)",
+    "name": "Atlassian Open DevOps",
     "capacidad": "Autonomo"
   },
   {
     "key": "12",
-    "name": "Principios SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion) ​",
-    "capacidad": "Aprendiz"
+    "name": "GitLab DevOps",
+    "capacidad": "Autonomo"
   },
   {
     "key": "13",
-    "name": "Contenedores",
-    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+    "name": "Azure DevOps",
+    "capacidad": "Autonomo"
   },
   {
     "key": "14",
-    "name": "Manejo de Servidor Web / Aplicación Server - Tomcat - Jboss - WebSphere - Weblogic",
-    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+    "name": "AWS DevOps",
+    "capacidad": "Autonomo"
   },
   {
     "key": "15",
-    "name": "ORM (Object-Relational mapping) ",
-    "capacidad": "Aprendiz"
+    "name": "SAST",
+    "capacidad": "Autonomo"
   },
   {
     "key": "16",
-    "name": "SOAP / API Restfull​",
-    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+    "name": "SCA​",
+    "capacidad": "Autonomo"
   },
   {
     "key": "17",
-    "name": "Automatizador de tareas - Flujo CI / CD​",
-    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+    "name": "DAST",
+    "capacidad": "Autonomo"
   },
   {
     "key": "18",
-    "name": "Patrones de Diseño​",
-    "capacidad": "Transicion de Aprendiz a Autonomo/a"
-  },
-  {
-    "key": "19",
-    "name": "Autenticación - SSO - Desarrollo Software Seguro​",
-    "capacidad": "Transicion de Aprendiz a Autonomo/a"
-  },
-  {
-    "key": "20",
-    "name": "Implementacion del Resultado del Analisis de CODIGO​",
-    "capacidad": "Transicion de Aprendiz a Autonomo/a"
-  }
-]
+    "name": "Gestión de Vulnerabilidades​",
+    "capacidad": "Autonomo"
+  }]

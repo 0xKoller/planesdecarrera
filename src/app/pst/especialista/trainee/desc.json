@@ -1,42 +1,52 @@
 [
   {
     "key": "1",
-    "name": "Construye o adapta clases, módulos u otras piezas de software con ayuda de algún JR o SSR.",
+    "name": "Se capacita en teoría de agilidad y DevOps, y en prácticas de Automatización de Despliegue y Pipelines.",
     "capacidad": "Aprendiz"
   },
   {
     "key": "2",
-    "name": "Reutiliza componentes existentes integrándolos con código propio, con previa autorización de un SSR.",
+    "name": "Realiza apoyo en documentación y tareas supervisadas.",
     "capacidad": "Aprendiz"
   },
   {
     "key": "3",
-    "name": "Colabora en la ejecución de pruebas unitarias",
-    "capacidad": "Aprendiz"
-  },
-  {
-    "key": "4",
     "name": "Capacidad de aprendizaje en tiempo y forma estipulados",
     "capacidad": "Lo pone en practica"
   },
   {
-    "key": "5",
+    "key": "4",
     "name": "Entusiasmo en aprender nuevas tecnologías",
     "capacidad": "Lo pone en practica"
   },
   {
+    "key": "5",
+    "name": "Propuesta de mejoras en el servicio en que se desempeñe con Compromiso y responsabilidad",
+    "capacidad": "Lo pone en practica"
+  },
+  {
     "key": "6",
-    "name": "Compromiso y responsabilidad",
-    "capacidad": "Es parte de su ADN"
+    "name": "Trabajo en equipo",
+    "capacidad": "Lo pone en practica"
   },
   {
     "key": "7",
-    "name": "Hacer que las cosas sucedan",
+    "name": "Aprendizaje continuo e innovación",
     "capacidad": "Lo pone en practica"
   },
   {
     "key": "8",
-    "name": "Cultura de Servicio",
-    "capacidad": "Es parte de su ADN"
+    "name": "Servicio al cliente",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "9",
+    "name": "Gestión del Tiempo",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "10",
+    "name": "Comunicación Efectiva",
+    "capacidad": "Lo pone en practica"
   }
 ]
