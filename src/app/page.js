@@ -19,8 +19,6 @@ export default function Home() {
           <Button
             type="primary"
             block
-            ghost
-            disabled
             className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
           >
             PST
@@ -28,8 +26,6 @@ export default function Home() {
           <Button
             type="primary"
             block
-            ghost
-            disabled
             className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
           >
             SQA
