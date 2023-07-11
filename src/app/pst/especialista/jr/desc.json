@@ -1,0 +1,42 @@
+[
+  {
+    "key": "1",
+    "name": "Diseñar y documentar escenarios y casos de prueba de baja complejidad",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "2",
+    "name": "Reutiliza componentes existentes integrándolos con código propio.",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "3",
+    "name": "Colabora en la ejecución de pruebas unitarias.",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "4",
+    "name": "Aprendizaje continuo",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "5",
+    "name": "Ejecución con visión de calidad o sea con mínima cantidad de bugs detectados",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "6",
+    "name": "Compromiso y responsabilidad",
+    "capacidad": "Es parte de su ADN"
+  },
+  {
+    "key": "7",
+    "name": "Hacer que las cosas sucedan",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "8",
+    "name": "Cultura de Servicio",
+    "capacidad": "Es parte de su ADN"
+  }
+]

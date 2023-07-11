@@ -1,0 +1,38 @@
+[
+  {
+    "key": "1",
+    "name": "Pensamiento Computacional",
+    "capacidad": "Introducción al mundo DEV",
+    "link": "#"
+  },
+  {
+    "key": "2",
+    "name": "Aprender a programar en cualquier lenguaje",
+    "capacidad": "Lenguajes Front y Back",
+    "link": "#"
+  },
+  {
+    "key": "3",
+    "name": "JAVA - Primeros pasos",
+    "capacidad": "Lenguajes Front y Back",
+    "link": "#"
+  },
+  {
+    "key": "4",
+    "name": "JAVA - De inicial a experto",
+    "capacidad": "Lenguajes Front y Back",
+    "link": "#"
+  },
+  {
+    "key": "5",
+    "name": "Fundamentos de la Programación: Diseño orientado a objetos",
+    "capacidad": "Lenguajes Front y Back",
+    "link": "#"
+  },
+  {
+    "key": "6",
+    "name": "Docker Esencial",
+    "capacidad": "Lenguajes Front y Back",
+    "link": "#"
+  }
+]

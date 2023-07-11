@@ -1,0 +1,42 @@
+[
+  {
+    "key": "1",
+    "name": "Construye o adapta clases, módulos u otras piezas de software con ayuda de algún JR o SSR.",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "2",
+    "name": "Reutiliza componentes existentes integrándolos con código propio, con previa autorización de un SSR.",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "3",
+    "name": "Colabora en la ejecución de pruebas unitarias",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "4",
+    "name": "Capacidad de aprendizaje en tiempo y forma estipulados",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "5",
+    "name": "Entusiasmo en aprender nuevas tecnologías",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "6",
+    "name": "Compromiso y responsabilidad",
+    "capacidad": "Es parte de su ADN"
+  },
+  {
+    "key": "7",
+    "name": "Hacer que las cosas sucedan",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "8",
+    "name": "Cultura de Servicio",
+    "capacidad": "Es parte de su ADN"
+  }
+]

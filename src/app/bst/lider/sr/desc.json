@@ -1,0 +1,67 @@
+[
+  {
+    "key": "1",
+    "name": "Comprender los requerimientos del software",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "2",
+    "name": "Lidera la estimación del esfuerzo",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "3",
+    "name": "Modeliza y refina especificaciones a fin de determinar un diseño detallado para implantar la funcionalidad requerida",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "4",
+    "name": "Construye un producto de media a alta complejidad",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "5",
+    "name": "Reutiliza componentes existentes integrándolos con código propio",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "6",
+    "name": "Diseña y ejecuta pruebas de integración ",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "7",
+    "name": "Revisa el código para proponer mejoras ",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "8",
+    "name": "Aprendizaje continuo",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "9",
+    "name": "Creación de  software diseñados con cero defectos detectados",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "10",
+    "name": "Innovación",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "11",
+    "name": "Hacer que las cosas sucedan",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "12",
+    "name": "Trabajo en equipo",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "13",
+    "name": "Cultura de Servicio",
+    "capacidad": "Lo pone en practica"
+  }
+]

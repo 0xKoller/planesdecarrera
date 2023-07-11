@@ -1,0 +1,77 @@
+[
+  {
+    "key": "1",
+    "name": "Comprender los requerimientos del software, en estrecho contacto con el Product Owner",
+    "capacidad": "Master"
+  },
+  {
+    "key": "2",
+    "name": "Lidera la estimación del esfuerzo",
+    "capacidad": "Master"
+  },
+  {
+    "key": "3",
+    "name": "Modeliza y refina especificaciones a fin de determinar un diseño detallado para implantar la funcionalidad requerida",
+    "capacidad": "Transicion de Autonomo a Master"
+  },
+  {
+    "key": "4",
+    "name": "Lidera y Construye un producto de media a alta complejidad, en estrecho contacto con El Product Owner",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "5",
+    "name": "Reutiliza componentes existentes integrándolos con código propio",
+    "capacidad": "Transicion de Autonomo a Master"
+  },
+  {
+    "key": "6",
+    "name": "Ser Responsable del diseño y construccion de la integraciones.",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "7",
+    "name": "Lidera la revision de código fuente, propone mejoras y explica al equipo las mismas",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "8",
+    "name": "Aprendizaje continuo",
+    "capacidad": "Es parte de su ADN"
+  },
+  {
+    "key": "9",
+    "name": "Gestionar y Liderar un Equipo Tecnico multidisciplinario de Desarrollo de Software",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "10",
+    "name": "Transferencia de Conocimiento tecnico y buenas practicas al resto del Equipo.",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "11",
+    "name": "Ser el Responsable de la Creación e Implementacion de  software diseñados con cero defectos detectados. ",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "12",
+    "name": "Innovación",
+    "capacidad": "Lo pone en practica"
+  },
+  {
+    "key": "13",
+    "name": "Hacer que las cosas sucedan",
+    "capacidad": "Es parte de su ADN"
+  },
+  {
+    "key": "14",
+    "name": "Trabajo en equipo",
+    "capacidad": "Es parte de su ADN"
+  },
+  {
+    "key": "15",
+    "name": "Cultura de Servicio",
+    "capacidad": "Es parte de su ADN"
+  }
+]

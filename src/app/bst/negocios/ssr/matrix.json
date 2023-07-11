@@ -1,0 +1,102 @@
+[
+  {
+    "key": "1",
+    "name": "Al menos 1.5 años desarrollando en herramientas de su especialidad",
+    "capacidad": "Cumple"
+  },
+  {
+    "key": "2",
+    "name": "O la participación en equipos de desarrollo agiles por al menos 20 iteraciones incrementales",
+    "capacidad": "Cumple"
+  },
+  {
+    "key": "3",
+    "name": "Todas las del JR en nivel AUTONOMO",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "4",
+    "name": "Control de Versiones​ . SCM - Metodologia GItFlow",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "5",
+    "name": "Programacion WEB Base HTML / CSS​ ",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "6",
+    "name": "Programacion Lenguaje Javascript​",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "7",
+    "name": "Lenguajes C#/PHP/Java/C/Python",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "8",
+    "name": "Lenguajes FWK  Ruby/NodeJS/Go​/React/Angular/Vue/Django/ReacNative/Ionic/Kotlin",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "9",
+    "name": "Base de Datos​ - Lenguaje SQL - PLSQL - ",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "10",
+    "name": "Gestor de paquetes / Empaquetador de archivos",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "11",
+    "name": "POO (Programacion Orientada a Objetos)",
+    "capacidad": "Autonomo"
+  },
+  {
+    "key": "12",
+    "name": "Principios SOLID (Single responsibility, Open-closed, Liskov substitution, Interface segregation and Dependency inversion) ​",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "13",
+    "name": "Contenedores",
+    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+  },
+  {
+    "key": "14",
+    "name": "Manejo de Servidor Web / Aplicación Server - Tomcat - Jboss - WebSphere - Weblogic",
+    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+  },
+  {
+    "key": "15",
+    "name": "ORM (Object-Relational mapping) ",
+    "capacidad": "Aprendiz"
+  },
+  {
+    "key": "16",
+    "name": "SOAP / API Restfull​",
+    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+  },
+  {
+    "key": "17",
+    "name": "Automatizador de tareas - Flujo CI / CD​",
+    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+  },
+  {
+    "key": "18",
+    "name": "Patrones de Diseño​",
+    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+  },
+  {
+    "key": "19",
+    "name": "Autenticación - SSO - Desarrollo Software Seguro​",
+    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+  },
+  {
+    "key": "20",
+    "name": "Implementacion del Resultado del Analisis de CODIGO​",
+    "capacidad": "Transicion de Aprendiz a Autonomo/a"
+  }
+]
