@@ -15,17 +15,7 @@ export default function FirstPost() {
             className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
           >
             Dev
-          </Button>
-          <Button
-            
-            block
-            ghost
-            disabled
-            className="h-10 flex items-center justify-center text-xl text-neutral-50 bg-red-600 hover:bg-red-50 hover:text-red-600"
-          >
-            Empty
-          </Button>
-          
+          </Button>          
         </Space>
       </div>
     </main>
