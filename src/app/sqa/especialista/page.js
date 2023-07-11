@@ -348,7 +348,7 @@ export default function Especialista() {
   return (
     <main className="flex min-h-screen flex-col items-center justify-center p-24">
       <div className="flex flex-col items-center justify-center m-4">
-        <h1 className="text-xl text-red-600">Business System Teams</h1>
+        <h1 className="text-xl text-red-600">Built-In Quality</h1>
         <h2 className="transition ease-in-out delay-100 text-red-500/50 hover:text-red-500">
           Especialista
         </h2>

@@ -6,7 +6,7 @@ import Space from "antd/es/space";
 export default function FirstPost() {
   return (
     <main className="flex flex-col items-center justify-center p-8 w-full">
-      <h1 className="text-xl text-red-600">Business System Teams</h1>
+      <h1 className="text-xl text-red-600">Platform System Teams</h1>
       <div className="container">
         <Space direction="vertical" style={{ width: "100%" }}>
           <Button
